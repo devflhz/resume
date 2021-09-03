@@ -2,14 +2,9 @@
 	"title" : "Habilidades",
 	"services" : [
 		{
-			"icon" : "rustgit commit -m \"Removed submodule <name>\"",
-			"title" : "Logo Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
-		},
-		{
-			"icon" : "pen-nib",
-			"title" : "Graphics Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"icon" : "slack",
+			"title" : "Slack",
+			"description" : "He usado Slack como medio de comunicación con mi equipo."
 		}
 	]
 }

@@ -1,0 +1,26 @@
+{
+	"title" : "Programming Languages",
+	"services" : [
+		{
+			"iconfam" : "fab",
+			"icon" : "rust",
+			"title" : "Rust",
+			"description" : "He escrito proyectos en Rust."
+		},
+		{
+			"icon" : "go",
+			"title" : "Go",
+			"description" : "He escrito proyectos en Go."
+		},
+		{
+			"icon" : "c",
+			"title" : "C",
+			"description" : "He escrito proyectos en C."
+		},
+		{
+			"icon" : "cplusplus",
+			"title" : "C++",
+			"description" : "He escrito proyectos en C++."
+		}
+	]
+}
