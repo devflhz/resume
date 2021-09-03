@@ -1,0 +1,4 @@
+baseURL = 'https://cv.edfloreshz.dev/'
+languageCode = 'en-us'
+title = 'CV'
+theme = 'uilite'
