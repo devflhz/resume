@@ -5,25 +5,25 @@
       "iconfam": "fas",
       "icon": "desktop",
       "title": "PC Building",
-      "description": "I own a 35 lb. bow."
+      "description": "I enjoy building PCs, especially gaming PCs."
     },
     {
       "iconfam": "fas",
       "icon": "code",
       "title": "CodeWars",
-      "description": "I own a 35 lb. bow."
+      "description": "I practice my coding skills on CodeWars."
     },
     {
       "iconfam": "fas",
       "icon": "chess-rook",
       "title": "Chess",
-      "description": "I own a 35 lb. bow."
+      "description": "I play casual chess with friends."
     },
     {
       "iconfam": "fas",
       "icon": "bullseye",
       "title": "Archery",
-      "description": "I own a 35 lb. bow."
+      "description": "I own a 35 lb. bow and practice on weekends."
     }
   ]
 }
