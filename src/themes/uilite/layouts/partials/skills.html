@@ -1,17 +1,17 @@
 {{ $services := .Site.Data.services }}
 
-<section class="green">
+<section class="voilet">
   <h2 class="heading">{{ $services.title }}</h2>
 
   <div class="row justify-content-md-center text-center">
-
     {{ range $index, $element := $services.services }}
 
     <div class="col-12 col-lg-6 col-md-6 mb-3">
       <div class="card p-4">
-        {{ $iconpack := $element.iconfam }}
-        {{ if $iconpack}}
-        <i class="mt-3  {{ $element.iconfam }} fa-{{ $element.icon }} fa-3x"></i>
+        {{ $iconpack := $element.iconfam }} {{ if $iconpack}}
+        <i
+          class="mt-3  {{ $element.iconfam }} fa-{{ $element.icon }} fa-3x"
+        ></i>
         {{ else }}
         <i class="mt-3 devicon-{{ $element.icon }}-plain fa-3x"></i>
         {{ end }}

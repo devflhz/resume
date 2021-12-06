@@ -1,26 +1,33 @@
 {
-	"title" : "Experiencia",
-	"experience" : [
-		{
-			"timeperiod" : "Mayo 2017 - Julio 2017",
-			"company" : "Intelinova Consulting",
-			"website": "https://intelinova.com.mx/",
-			"position": "Desarrollador de aplicaciones moviles",
-			"description" : "Forme parte de un equipo desarrollando aplicaciones móviles y paginas web."
-		},
-		{
-			"timeperiod" : "Julio 2018 - Enero 2019",
-			"company" : "TE Connectivity",
-			"website": "https://www.te.com/",
-			"position": "Becario de software",
-			"description" : "Forme parte de un equipo dedicado a mejora continua, mi función principal fue identificar áreas de mejora en el software para la realización de tareas y la automatización de procesos."
-		},
-		{
-			"timeperiod" : "Septiembre 2019 - Actualidad",
-			"company" : "Dirección General De Informática - SEC",
-			"website": "http://www.sec-sonora.gob.mx/",
-			"position": "Desarrollador backend",
-			"description" : "Mi función principal es el desarrollo de nuevos sistemas para su futura implementación, así como el mantenimiento de sistemas existentes dedicados a automatizar procesos."
-		}
-	]
+  "title": "Experience",
+  "experience": [
+    {
+      "timeperiod": "May 2017 - July 2017",
+      "company": "Intelinova Consulting",
+      "website": "https://intelinova.com.mx/",
+      "position": "Mobile Developer",
+      "description": "I was part of a team developing mobile applications and web pages."
+    },
+    {
+      "timeperiod": "July 2018 - January 2019",
+      "company": "TE Connectivity",
+      "website": "https://www.te.com/",
+      "position": "Software Engineering Intern",
+      "description": "I was part of a team dedicated to continuous improvement, my main role was to identify areas of improvement in the software for the completion of tasks and the automation of processes."
+    },
+    {
+      "timeperiod": "September 2019 - October 2021",
+      "company": "Dirección General De Informática - SEC",
+      "website": "http://www.sec-sonora.gob.mx/",
+      "position": "Backend Developer",
+      "description": "My main function was the development of new systems for future implementation, as well as the maintenance of existing systems dedicated to automating processes."
+    },
+    {
+      "timeperiod": "October 2021 - November 2021",
+      "company": "Encora Inc.",
+      "website": "https://www.encora.com",
+      "position": "Software Engineering Apprentice",
+      "description": "I was part of a team of developers."
+    }
+  ]
 }

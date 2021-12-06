@@ -1,26 +1,36 @@
 {
-	"title" : "Programming Languages",
-	"services" : [
-		{
-			"iconfam" : "fab",
-			"icon" : "rust",
-			"title" : "Rust",
-			"description" : "He escrito proyectos en Rust."
-		},
-		{
-			"icon" : "go",
-			"title" : "Go",
-			"description" : "He escrito proyectos en Go."
-		},
-		{
-			"icon" : "c",
-			"title" : "C",
-			"description" : "He escrito proyectos en C."
-		},
-		{
-			"icon" : "cplusplus",
-			"title" : "C++",
-			"description" : "He escrito proyectos en C++."
-		}
-	]
+  "title": "Technologies",
+  "services": [
+    {
+      "icon": "dotnetcore",
+      "title": ".NET",
+      "description": "I have used tools like C#, Visual Studio, SQL Server and Entity Framework to develop web applications."
+    },
+    {
+      "iconfam": "fab",
+      "icon": "rust",
+      "title": "Rust",
+      "description": "I've spent the last two years learning it and to this day, I can confidently say I'm fluent in Rust."
+    },
+    {
+      "icon": "bash",
+      "title": "Shell Scripting",
+      "description": "A lot of my workflow has been automated with bash scripts, I've also written some deploy scripts using GitHub actions."
+    },
+    {
+      "icon": "linux",
+      "title": "Linux",
+      "description": "I know how to use Linux, I'm familiar with firewalls, ports, services with systemd, and have used it to build a server."
+    },
+    {
+      "icon": "git",
+      "title": "Git",
+      "description": "I know how to use Git to manage my projects, and I'm familiar with the concepts of branching, merging, rebasing, etc..."
+    },
+    {
+      "icon": "mysql",
+      "title": "SQL",
+      "description": "I know how to use MySQL and SQL Server to manage my databases, and I'm familiar with the concepts of joins, views, and stored procedures."
+    }
+  ]
 }

@@ -1,0 +1,19 @@
+{
+  "title": "Education",
+  "education": [
+    {
+      "timeperiod": "2015-2016",
+      "company": "Universidad Tecmilenio",
+      "website": "https://www.tecmilenio.mx",
+      "position": "Bachelor of Graphic Design and Animation",
+      "description": "Integrally design characters and video games, design prototypes for virtual environments and determine the feasibility of design, animation and digital technology projects"
+    },
+    {
+      "timeperiod": "2016-2020",
+      "company": "Universidad Estatal de Sonora",
+      "website": "https://www.tecmilenio.mx",
+      "position": "Bachelor of Science in Software Engineering",
+      "description": "Full knowledge of the software development cycle and all of its components, being able to lead development teams, develop new computer systems and provide support and technical assistance in existing computer systems."
+    }
+  ]
+}

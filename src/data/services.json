@@ -1,10 +1,10 @@
 {
-	"title" : "Habilidades",
-	"services" : [
-		{
-			"icon" : "slack",
-			"title" : "Slack",
-			"description" : "He usado Slack como medio de comunicación con mi equipo."
-		}
-	]
+  "title": "Services",
+  "services": [
+    {
+      "icon": "slack",
+      "title": "Slack",
+      "description": "He usado Slack como medio de comunicación con mi equipo."
+    }
+  ]
 }
