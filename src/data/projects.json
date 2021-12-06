@@ -1,0 +1,23 @@
+{
+  "title": "Projects",
+  "projects": [
+    {
+      "icon": "file-code",
+      "title": "Sensei",
+      "description": "Sensei is a simple command-line tool I made to access documentation for any Rust crate in crates.io.",
+      "url": "https://github.com/edfloreshz/sensei"
+    },
+    {
+      "icon": "code",
+      "title": "Dev(mode)",
+      "description": "Devmode is a project management utility for developers I made to facilitate day to day operations.",
+      "url": "https://github.com/edfloreshz/devmode"
+    },
+    {
+      "icon": "school",
+      "title": "Academic",
+      "description": "Academic is a school management system I designed for a Kindergarten.",
+      "url": "https://github.com/edfloreshz/academic"
+    }
+  ]
+}

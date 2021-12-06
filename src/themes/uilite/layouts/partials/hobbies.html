@@ -1,0 +1,25 @@
+{{ $hobbies := .Site.Data.hobbies }}
+
+<section class="red">
+  <h2 class="heading">{{ $hobbies.title }}</h2>
+
+  <div class="row justify-content-md-center text-center">
+    {{ range $index, $element := $hobbies.hobbies }}
+
+    <div class="col-12 col-lg-6 col-md-6 mb-3">
+      <div class="card p-4">
+        {{ $iconpack := $element.iconfam }} {{ if $iconpack }}
+        <i
+          class="mt-3  {{ $element.iconfam }} fa-{{ $element.icon }} fa-3x"
+        ></i>
+        {{ else }}
+        <i class="mt-3 devicon-{{ $element.icon }}-plain fa-3x"></i>
+        {{ end }}
+        <h5 class="mt-4">{{ $element.title }}</h5>
+        <p class="text-muted">{{ $element.description }}</p>
+      </div>
+    </div>
+
+    {{ end }}
+  </div>
+</section>

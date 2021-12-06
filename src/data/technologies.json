@@ -20,17 +20,17 @@
     {
       "icon": "linux",
       "title": "Linux",
-      "description": "I know how to use Linux, I'm familiar with firewalls, ports, services with systemd, and have used it to build a server."
+      "description": "I use Linux, I'm familiar with firewalls, ports, services with systemd, and have used it to build a server."
     },
     {
       "icon": "git",
       "title": "Git",
-      "description": "I know how to use Git to manage my projects, and I'm familiar with the concepts of branching, merging, rebasing, etc..."
+      "description": "I use Git to manage my projects, and I'm familiar with the concepts of branching, merging, rebasing, etc..."
     },
     {
       "icon": "mysql",
       "title": "SQL",
-      "description": "I know how to use MySQL and SQL Server to manage my databases, and I'm familiar with the concepts of joins, views, and stored procedures."
+      "description": "I use MySQL and SQL Server to manage my databases, and I'm familiar with the concepts of joins, views, and stored procedures."
     }
   ]
 }

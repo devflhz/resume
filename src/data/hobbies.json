@@ -1,0 +1,29 @@
+{
+  "title": "Hobbies",
+  "hobbies": [
+    {
+      "iconfam": "fas",
+      "icon": "desktop",
+      "title": "PC Building",
+      "description": "I own a 35 lb. bow."
+    },
+    {
+      "iconfam": "fas",
+      "icon": "code",
+      "title": "CodeWars",
+      "description": "I own a 35 lb. bow."
+    },
+    {
+      "iconfam": "fas",
+      "icon": "chess-rook",
+      "title": "Chess",
+      "description": "I own a 35 lb. bow."
+    },
+    {
+      "iconfam": "fas",
+      "icon": "bullseye",
+      "title": "Archery",
+      "description": "I own a 35 lb. bow."
+    }
+  ]
+}

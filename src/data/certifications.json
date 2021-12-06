@@ -1,0 +1,23 @@
+{
+  "title": "Certifications",
+  "certifications": [
+    {
+      "iconfam": "fas",
+      "icon": "route",
+      "title": "Buzan",
+      "description": "Buzan Certified Mind Mapper"
+    },
+    {
+      "iconfam": "fas",
+      "icon": "directions",
+      "title": "CDG+",
+      "description": "eLeadership Plus"
+    },
+    {
+      "iconfam": "fab",
+      "icon": "microsoft",
+      "title": "Microsoft",
+      "description": "Microsoft Office Specialist"
+    }
+  ]
+}
