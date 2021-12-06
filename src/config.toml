@@ -1,4 +1,4 @@
-baseURL = 'https://cv.edfloreshz.dev/'
+baseURL = 'https://resume.edfloreshz.dev/'
 languageCode = 'en-us'
-title = 'CV'
+title = 'Resume'
 theme = 'uilite'
