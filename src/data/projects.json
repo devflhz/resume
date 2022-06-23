@@ -2,6 +2,12 @@
   "title": "Projects",
   "projects": [
     {
+      "icon": "check",
+      "title": "Done",
+      "description": " Done is a simple to do app written in GTK and Rust.",
+      "url": "https://github.com/edfloreshz/done"
+    },
+    {
       "icon": "file-code",
       "title": "Sensei",
       "description": "Sensei is a simple command-line tool I made to access documentation for any Rust crate in crates.io.",

@@ -10,27 +10,27 @@
       "iconfam": "fab",
       "icon": "rust",
       "title": "Rust",
-      "description": "I've spent the last two years learning it and to this day, I can confidently say I'm fluent in Rust."
+      "description": "I've spent the last two years learning Rust and worked on several personal projects with it, mostly CLI, desktop and server."
     },
     {
       "icon": "bash",
       "title": "Shell Scripting",
-      "description": "A lot of my workflow has been automated with bash scripts, I've also written some deploy scripts using GitHub actions."
+      "description": "I write bash scripts to automate my workflow, mostly regarding developer environment configuration."
     },
     {
       "icon": "linux",
       "title": "Linux",
-      "description": "I use Linux, I'm familiar with firewalls, ports, services with systemd, and have used it to build a server."
+      "description": "I use Linux as my main development OS and to build servers."
     },
     {
       "icon": "git",
       "title": "Git",
-      "description": "I use Git to manage my projects, and I'm familiar with the concepts of branching, merging, rebasing, etc..."
+      "description": "Git is my primary VCS, I'm familiar with the concepts of branching, merging, rebasing, and more."
     },
     {
       "icon": "mysql",
       "title": "SQL",
-      "description": "I use MySQL and SQL Server to manage my databases, and I'm familiar with the concepts of joins, views, and stored procedures."
+      "description": "I use MySQL and SQL Server to manage my databases, I'm familiar with joins, views, stored procedures and more."
     }
   ]
 }
