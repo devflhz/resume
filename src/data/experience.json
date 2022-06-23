@@ -27,7 +27,14 @@
       "company": "Encora Inc.",
       "website": "https://www.encora.com",
       "position": "Software Engineering Apprentice",
-      "description": "I was part of a team of developers."
+      "description": "I was part of a software engineering apprentice program."
+    },
+    {
+      "timeperiod": "December 2021 - Today",
+      "company": "Tata Consultancy Services.",
+      "website": "https://www.tcs.com/",
+      "position": "Software Engineer",
+      "description": "I'm part of a team of .NET developers working with Oracle databases and ASP.NET applications."
     }
   ]
 }
