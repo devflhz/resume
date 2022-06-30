@@ -4,32 +4,38 @@
     {
       "icon": "dotnetcore",
       "title": ".NET",
+      "experience": "3 years",
       "description": "I have used tools like C#, Visual Studio, SQL Server and Entity Framework to develop web applications."
     },
     {
       "iconfam": "fab",
       "icon": "rust",
       "title": "Rust",
+      "experience": "2 years",
       "description": "I've spent the last two years learning Rust and worked on several personal projects with it, mostly CLI, desktop and server."
     },
     {
       "icon": "bash",
       "title": "Shell Scripting",
+      "experience": "4 years",
       "description": "I write bash scripts to automate my workflow, mostly regarding developer environment configuration."
     },
     {
       "icon": "linux",
       "title": "Linux",
+      "experience": "5 years",
       "description": "I use Linux as my main development OS and to build servers."
     },
     {
       "icon": "git",
       "title": "Git",
+      "experience": "3 years",
       "description": "Git is my primary VCS, I'm familiar with the concepts of branching, merging, rebasing, and more."
     },
     {
       "icon": "mysql",
       "title": "SQL",
+      "experience": "3 years",
       "description": "I use MySQL and SQL Server to manage my databases, I'm familiar with joins, views, stored procedures and more."
     }
   ]
